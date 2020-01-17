@@ -1,0 +1,2 @@
+# Memyselfandi
+SR.STANDALONE
